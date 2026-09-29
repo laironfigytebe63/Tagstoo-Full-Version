@@ -238,4 +238,4 @@ This repository serves as the official landing page for Tagstoo. The software is
 **Get the most recent version of Tagstoo today!**
 
 ---
-**Last updated:** 2026-09-29 13:47:04 UTC
+**Last updated:** 2026-09-29 19:08:09 UTC
